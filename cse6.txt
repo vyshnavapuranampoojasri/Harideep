@@ -1,1 +1,1 @@
-This file is created on the new branch "Feature". What ever the changes that i make on this new branch, if the code is compliant with the code on master branch, My Project manager of team lead will integrate the changes back to the master branch.
+Trying branches
